@@ -1,0 +1,6 @@
+framework module podDev {
+  umbrella header "podDev-umbrella.h"
+
+  export *
+  module * { export * }
+}
